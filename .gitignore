@@ -1,0 +1,14 @@
+# Ignore virtual environment directories
+venv/
+backend/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore VSCode settings (if not needed for the project)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
